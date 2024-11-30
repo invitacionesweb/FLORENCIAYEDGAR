@@ -352,7 +352,7 @@ footer img {
        
     }
     .rsvp {
-        height: 44vh;
+        height: 40vh;
         color: var(--color-principal);
         background-image: url(./img-editables/4.png);
         background-size: cover;
