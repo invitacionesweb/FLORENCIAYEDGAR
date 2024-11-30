@@ -318,7 +318,7 @@ footer img {
     width: 100px;
 }
 .rsvp {
-    height: 100vh;
+    height: 40vh;
     color: var(--color-principal);
     background-image: url(./img-editables/4.png);
     background-size: cover;
@@ -350,6 +350,13 @@ footer img {
         padding: 0px 0 20px 0;
         color: var(--color-terciario);
        
+    }
+    .rsvp {
+        height: 60vh;
+        color: var(--color-principal);
+        background-image: url(./img-editables/4.png);
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     .information-bloque p {
         max-width: 260px;
